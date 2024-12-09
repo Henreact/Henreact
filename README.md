@@ -7,7 +7,7 @@ This place is where I spend most of my routine time coding, studying, and buildi
 
 - Front end
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,styledcomponents,tailwind,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,styledcomponents,tailwind,materialui)](https://skillicons.dev)
 
 - Back end:
 
